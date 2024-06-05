@@ -51,7 +51,7 @@ nav ul li a:hover {
 }
 /* Add background image to the header */
 .Home-header-bg {
-    background-image: url("Home Photo.jpeg");
+    background-image: url("HomePhoto.jpeg");
     background-size: cover; /* is ensures the image covers the entire header */
     background-position: center; /* Center the image within the header */
     height: 75vh; /* Adjust the height as needed */
@@ -59,7 +59,7 @@ nav ul li a:hover {
 }
 
 .Info-header-bg {
-    background-image: url("Home Photo.jpeg");
+    background-image: url("HomePhoto.jpeg");
     background-size: cover; /* is ensures the image covers the entire header */
     background-position: center; /* Center the image within the header */
     height: 25vh; /* Adjust the height as needed */
