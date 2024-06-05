@@ -1,4 +1,3 @@
-
 // Constants
 const GRID_SIZE = 50; // Size of each grid cell
 const PLAYER_SIZE = 40; // Size of the player square
