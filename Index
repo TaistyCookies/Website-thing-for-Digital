@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>High Atlas Foundation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="overlay"></div>
+
+    <header class="Home-header-bg">
+   
+        <h1 id="Hometitle">High Atlas Foundation</h1>
+       
+    </header>
+
+    <a href="index.html" class="home-button">Home</a>
+    
+    <div class="explanation" >
+        <h2>Clean Drinking Water for 1250 Villagers in Morocco</h2>
+        <div class="FrontPageBackgroudBox">
+            <p>This project seeks to provide potable water for 5 villages in Morocco's High Atlas Mountains. Approximately 60% of rural Moroccans lack piped potable water. Unhealthy drinking water causes frighteningly high infant mortality (many families lose half their children to water-borne diseases), shorter life spans and reduced energy for livelihoods. Further, time spent to procure non-potable water adds to the already substantial burden of women and girls and prevents their participation in education.</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <a href="info.html" class="box">
+           <img src="Images/Screenshot 2024-06-03 at 10.26.27.png" alt="Image 1">
+           <h3>Learn more about the issue we face.</h3>
+
+        </a>
+        <a href="Gamepage.html" class="box">
+           <img src="Images/Screenshot 2024-06-03 at 10.27.36.png" alt="Image 2">
+
+           <h3>Help build a system that brings water to a village! </h3>
+
+        </a>
+        <a href="how-you-can-help.html" class="box">
+           <img src="Images/Screenshot 2024-06-03 at 10.28.21.png" alt="Image 3">
+           <h3>How you can help.</h3>
+
+        </a>
+     </div>
+
+    <footer>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="info.html">Info</a></li>
+                <li><a href="how-you-can-help.html">How You Can Help</a></li>
+                <li><a href="gamepage.html">Game</a></li>
+                <li><a href="https://highatlasfoundation.org/es/donar">Donate</a></li>
+            </ul>
+        </nav>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
